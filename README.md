@@ -36,5 +36,5 @@ Quick Sort
 
 ### Tech Stack
 
-Language: Java   
-IDE: IntelliJ IDEA   
+Language: C   
+IDE: Visual Studio 2022
